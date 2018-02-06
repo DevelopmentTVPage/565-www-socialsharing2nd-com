@@ -22,7 +22,8 @@
             "video_item_color": "rgba(254, 255, 0, 1)",
             "video_item_text_align": "center",
             "video_item_font_weight": "bold",
-            "video_item_font_size": "20"
+            "video_item_font_size": "20",
+            "video_item_hover_color": "rgba(0, 210, 255, 1)"
         },
         ".widget-title": {
             "widget_title_background_color": "Rgba(178, 179, 36, 1)",
