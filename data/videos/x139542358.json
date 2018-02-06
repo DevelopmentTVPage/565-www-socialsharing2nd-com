@@ -3,7 +3,7 @@
     "description": "Check out our soundcloud channel : \nhttps:\/\/soundcloud.com\/agroma",
     "referenceId": "MdaVGTfe6aI",
     "date_created": "1503059225",
-    "date_modified": "1517601733",
+    "date_modified": "1517938961",
     "tags": "",
     "sourceId": "4",
     "status": "approved",
@@ -25,7 +25,7 @@
     "settings": "",
     "asset": {
         "type": "youtube",
-        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MdaVGTfe6aI\/maxresdefault.jpg",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759130\/canvas\/200\/113\/538662377-87106287219.png",
         "uploadDate": 1503059225,
         "videoId": "MdaVGTfe6aI",
         "title": "Agroma - Allassakee",
@@ -33,7 +33,9 @@
         "author": "goauniverse",
         "mediaDuration": 412,
         "prettyDuration": "00:06:52",
-        "views": "766"
+        "views": "766",
+        "uploadAsset": false,
+        "quality": ""
     },
     "transcripts": "",
     "metrics_statistics": ""
