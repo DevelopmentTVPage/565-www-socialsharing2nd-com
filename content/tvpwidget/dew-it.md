@@ -13,10 +13,16 @@
             "body_font_family": "Helvetica"
         },
         ".video-item": {
-            "video_item_border_width": "8",
-            "video_item_border_color": "rgba(255, 255, 255, 1)",
-            "video_item_border_style": "dashed",
-            "video_item_display_amount": "3"
+            "video_item_border_width": "20",
+            "video_item_border_color": "rgba(170, 183, 97, 1)",
+            "video_item_border_style": "double",
+            "video_item_display_amount": "3",
+            "video_item_border_radius": "34%",
+            "video_item_background_color": "rgba(0, 0, 0, 1)",
+            "video_item_color": "rgba(254, 255, 0, 1)",
+            "video_item_text_align": "center",
+            "video_item_font_weight": "bold",
+            "video_item_font_size": "20"
         },
         ".widget-title": {
             "widget_title_background_color": "Rgba(178, 179, 36, 1)",
