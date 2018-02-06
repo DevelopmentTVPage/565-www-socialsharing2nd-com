@@ -3,7 +3,7 @@
     "description": "Album: Gorgeous George \/ Year: 1994 \/ Written by Edwyn Collins \/ Produced by Edwyn Collins\r\nLyrics:\r\nI've never known a girl like you before\r\nNow, just like in a song from days of yore\r\nHere you come a-knocking, knocking on my door\r\nAnd I've never met a girl like you before\r\n\r\nYou give me just a taste so I want more\r\nNow my hands are bleeding and my knees are raw\r\n'Cause now you got me crawling, crawling on the floor\r\nAnd I've never known a girl like you before\r\n\r\nYou made me acknowledge the devil in me\r\nI hope to God I'm talking metaphorically\r\nHope that I'm talking alegorically\r\nKnow that I'm talking about the way I feel\r\nAnd I've never known a girl like you before\r\nNever, never, never, never\r\nNever known a girl like you before\r\n\r\nThis old town's changed so much\r\nDon't feel that I belong\r\nToo many protest singers\r\nNot enough protest songs\r\nAnd now you've come along\r\nYes, you've come along\r\nAnd I've never met a girl like you before",
     "referenceId": "iYFz4pKclyA",
     "date_created": "1517621339",
-    "date_modified": "1517883411",
+    "date_modified": "1517940869",
     "tags": null,
     "sourceId": "4",
     "status": "approved",
@@ -15,6 +15,8 @@
     "id": "139542371",
     "loginId": "1759130",
     "entityType": "1",
+    "sortOrder": "26",
+    "entityIdParent": "139542446",
     "titleTextEncoded": "Edwyn-Collins-A-Girl-Like-You",
     "category": null,
     "tvp_profiles": null,
@@ -29,13 +31,13 @@
         "hdvFlag": 1,
         "description": "Album: Gorgeous George \/ Year: 1994 \/ Written by Edwyn Collins \/ Produced by Edwyn Collins\r\nLyrics:\r\nI've never known a girl like you before\r\nNow, just like in a song from days of yore\r\nHere you come a-knocking, knocking on my door\r\nAnd I've never met a girl like you before\r\n\r\nYou give me just a taste so I want more\r\nNow my hands are bleeding and my knees are raw\r\n'Cause now you got me crawling, crawling on the floor\r\nAnd I've never known a girl like you before\r\n\r\nYou made me acknowledge the devil in me\r\nI hope to God I'm talking metaphorically\r\nHope that I'm talking alegorically\r\nKnow that I'm talking about the way I feel\r\nAnd I've never known a girl like you before\r\nNever, never, never, never\r\nNever known a girl like you before\r\n\r\nThis old town's changed so much\r\nDon't feel that I belong\r\nToo many protest singers\r\nNot enough protest songs\r\nAnd now you've come along\r\nYes, you've come along\r\nAnd I've never met a girl like you before",
         "tags": "",
-        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/dev\/users\/1759130\/canvas\/142\/78\/698159530-0235142313.jpg",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iYFz4pKclyA\/maxresdefault.jpg",
         "videoId": "iYFz4pKclyA",
         "mediaDuration": 239,
         "prettyDuration": "00:03:59",
         "uploadAsset": false,
         "quality": ""
     },
-    "transcripts": null,
+    "transcripts": "It's not the end of the world",
     "metrics_statistics": null
 }
