@@ -15,7 +15,8 @@
         ".video-item": {
             "video_item_border_width": "8",
             "video_item_border_color": "rgba(255, 255, 255, 1)",
-            "video_item_border_style": "dashed"
+            "video_item_border_style": "dashed",
+            "video_item_display_amount": "3"
         },
         ".widget-title": {
             "widget_title_background_color": "Rgba(178, 179, 36, 1)",
