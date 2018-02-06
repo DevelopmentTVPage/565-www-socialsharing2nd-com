@@ -10,6 +10,9 @@
             "widget_border_width": "8",
             "widget_border_color": "rgba(0, 0, 0, 1)",
             "widget_border_style": "solid"
+        },
+        ".video-item": {
+            "video_item_border_width": "9"
         }
     }
 }
