@@ -12,7 +12,9 @@
             "widget_border_style": "solid"
         },
         ".video-item": {
-            "video_item_border_width": "9"
+            "video_item_border_width": "8",
+            "video_item_border_color": "rgba(255, 255, 255, 1)",
+            "video_item_border_style": "dashed"
         }
     }
 }
