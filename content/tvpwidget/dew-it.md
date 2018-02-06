@@ -3,5 +3,10 @@
     "title": "Dew It",
     "name": "dew-it",
     "channelId": "139542446",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "css": {
+        ".widget-body": {
+            "widget_background_color": "rgba(255, 0, 0, 1)"
+        }
+    }
 }
