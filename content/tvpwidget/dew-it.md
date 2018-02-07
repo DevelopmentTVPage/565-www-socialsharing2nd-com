@@ -96,6 +96,16 @@
             "product_item_border_width": "10",
             "product_item_border_style": "double",
             "product_item_border_color": "rgba(35, 0, 255, 1)"
+        },
+        ".product-item-image-overlay": {
+            "product_item_image_overlay_background_color": "rgba(255, 0, 0, 1)",
+            "product_item_image_overlay_opacity": "0.4"
+        },
+        ".product-pop-over": {
+            "product_pop_over_background_color": "rgba(255, 245, 0, 1)"
+        },
+        ".pop-over-pointer": {
+            "product_pop_over_pointer_background_color": "Rgba(255, 245, 0, 1)"
         }
     },
     "layout": "bootstrap",
