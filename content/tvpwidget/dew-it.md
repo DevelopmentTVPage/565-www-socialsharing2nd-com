@@ -106,6 +106,33 @@
         },
         ".pop-over-pointer": {
             "product_pop_over_pointer_background_color": "Rgba(255, 245, 0, 1)"
+        },
+        ".product-pop-over-title": {
+            "product_pop_over_title_font_size": "20",
+            "product_pop_over_title_font_weight": "bold",
+            "product_pop_over_title_text_align": "center",
+            "product_pop_over_title_color": "rgba(0, 255, 225, 1)",
+            "product_pop_over_title_background_color": "rgba(255, 6, 6, 1)",
+            "product_pop_over_title_border_width": "7",
+            "product_pop_over_title_border_style": "solid",
+            "product_pop_over_title_border_color": "rgba(0, 40, 255, 1)"
+        },
+        ".product-pop-over-price": {
+            "product_pop_over_price_font_size": "20",
+            "product_pop_over_price_font_weight": "bold",
+            "product_pop_over_price_text_align": "center",
+            "product_pop_over_price_color": "rgba(0, 255, 225, 1)",
+            "product_pop_over_price_background_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_price_border_width": "7",
+            "product_pop_over_price_border_style": "solid",
+            "product_pop_over_price_border_color": "rgba(0, 77, 172, 1)"
+        },
+        ".product-pop-over-cta": {
+            "product_pop_over_cta_color": "rgba(0, 255, 236, 1)",
+            "product_pop_over_cta_background_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_cta_width": "7",
+            "product_pop_over_cta_style": "solid",
+            "product_pop_over_border_color": "rgba(0, 72, 255, 1)"
         }
     },
     "layout": "bootstrap",
