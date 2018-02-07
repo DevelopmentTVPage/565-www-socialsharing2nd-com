@@ -50,6 +50,17 @@
             "carousel_dot_border_radius": "30%",
             "carousel_dot_hover_background_color": "rgba(255, 0, 0, 1)",
             "carousel_dot_hover_border_color": "rgba(0, 61, 255, 1)"
+        },
+        ".video-item-image-overlay": {
+            "video_item_image_overlay_opacity": "0.4",
+            "video_item_image_overlay_background_color": "rgba(233, 255, 0, 1)",
+            "video_item_image_overlay_hover_background_color": "rgba(255, 0, 0, 1)"
+        },
+        ".widget-modal-body": {
+            "widget_modal_body_background_color": "rgba(0, 255, 12, 1)",
+            "widget_modal_body_border_width": "20",
+            "widget_modal_body_border_style": "outset",
+            "widget_modal_body_border_color": "rgba(0, 114, 255, 1)"
         }
     },
     "layout": "bootstrap",
