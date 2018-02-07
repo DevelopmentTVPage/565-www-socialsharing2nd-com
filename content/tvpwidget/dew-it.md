@@ -61,6 +61,12 @@
             "widget_modal_body_border_width": "20",
             "widget_modal_body_border_style": "outset",
             "widget_modal_body_border_color": "rgba(0, 114, 255, 1)"
+        },
+        ".widget-modal-header": {
+            "widget_modal_header_background_color": "rgba(31, 255, 0, 1)",
+            "widget_modal_header_border_width": "20",
+            "widget_modal_header_border_style": "outset",
+            "widget_modal_header_border_color": "rgba(0, 140, 255, 1)"
         }
     },
     "layout": "bootstrap",
