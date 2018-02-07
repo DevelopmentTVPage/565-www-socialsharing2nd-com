@@ -91,6 +91,11 @@
             "play_button_hover_background_color": "rgba(255, 255, 255, 1)",
             "play_button_hover_border_color": "rgba(255, 0, 0, 1)",
             "play_button_hover_icon_color": "rgba(255, 0, 0, 1)"
+        },
+        ".product-item": {
+            "product_item_border_width": "10",
+            "product_item_border_style": "double",
+            "product_item_border_color": "rgba(35, 0, 255, 1)"
         }
     },
     "layout": "bootstrap",
